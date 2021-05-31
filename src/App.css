@@ -1,0 +1,35 @@
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.listofmv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-between;
+  
+}
+.App {
+  background-color: black;
+
+}
+nav{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.cardstyle{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: aqua;
+}
+
